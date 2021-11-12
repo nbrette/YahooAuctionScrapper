@@ -1,0 +1,9 @@
+{
+    "keywords": [
+        "FISHING",
+        "WATCH"
+    ],
+    "sellers": ["SELLER_NAME"],
+    "output":"output.csv",
+    "targetLanguage":"fr"
+}
