@@ -1,15 +1,15 @@
-# ZENSCRAPPER
+# Yahoo Auction Scrapper
 
 ## Description
 
-This program allow you to crawl Yahoo Auctions items.
+This program allow you to crawl Yahoo Auctions Japan items.
 You define which seller's profile should be crawled and what are the keywords used to find interesting auctions.
-Every item matching the criterias will be output in a csv file with a link to the proxy buyer Zenmarket.
+Every item matching the criterias will be output in a csv file with a link to the proxy buyer Zenmarket since foreigners can not buy on yahoo auction Japan.
 
 ## Installation
 
 To use this program first download the project:  
-`git clone https://github.com/nbrette/ZenScrapper.git`  
+`git clone https://github.com/nbrette/YahooAuctionScrapper.git`  
 
 Then install the required libraries:  
 `pip install -r requirements.txt`
