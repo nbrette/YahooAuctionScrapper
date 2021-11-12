@@ -12,7 +12,7 @@ To use this program first download the project:
 `git clone https://github.com/nbrette/YahooAuctionScrapper.git`  
 
 Then install the required libraries:  
-`pip install -r requirements.txt`
+`pip3 install -r requirements.txt`
 
 ## Configuration
 
